@@ -8,13 +8,13 @@
 
 
 
-
-<p align="center">
+<img width="100%" src="d481f3c72e283309071f79e01b05c06d.gif">
+<!-- <p align="center">
   <img alt="coding" 
        src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyMG1wOGQwb3ZoamN5bW1scWltZGIyamRsNTdtdnR6NjV0dTg3N2s2aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/200w.gif" 
        width="300" 
        height="300"/>
-</p>
+</p> -->
 
 
 
